@@ -1,0 +1,152 @@
+Local Authority,Average of Full-Time Posts Vacant (%),Average of Full-Time Temporarily Filled Posts (%),sum of Full time and full time temp,Sum of Number of Full-Time Vacant Posts,Sum of Number of Full-Time Temporarily Filled Posts,LOOKUP,new_la_code
+Central Bedfordshire,0.8,1.3,2.1,5,9,#N/A,E06000055
+Cheshire East,0.2,0.6,0.8,1,2,#N/A,E06000049
+Bedford,0,0.1,0.1,0,1,#N/A,E06000055
+Cheshire West and Chester,0,0.4,0.4,0,4,#N/A,E06000050
+York,0,0.8,0.8,0,4,York,E06000014
+Worcestershire,0.2,0.1,0.3,4,2,Worcestershire,E10000034
+Wolverhampton,0.4,1.6,2,3,12,Wolverhampton,E08000031
+Wokingham,0,1.4,1.4,0,4,Wokingham,E06000041
+Wirral,0.2,0.2,0.4,3,3,Wirral,E08000015
+Wiltshire,0.1,0.9,1,4,8,Wiltshire,E06000054
+Wigan,0.2,0.4,0.6,2,6,Wigan,E08000010
+Westminster,0.2,3.3,3.5,1,19,Westminster,E09000033
+West Sussex,0.1,0.5,0.6,1,14,West Sussex,E10000032
+West Berkshire,0.2,0.8,1,1,4,West Berkshire,E06000037
+Warwickshire,0.1,1,1.1,3,13,Warwickshire,E10000031
+Warrington,0.1,0.9,1,1,5,Warrington,E06000007
+Wandsworth,0.1,3,3.1,1,32,Wandsworth,E09000032
+Waltham Forest,0.2,1.9,2.1,2,25,Waltham Forest,E09000031
+Walsall,0.2,1,1.2,2,15,Walsall,E08000030
+Wakefield,0,0.3,0.3,0,4,Wakefield,E08000036
+Trafford,0,0.2,0.2,0,2,Trafford,E08000009
+Tower Hamlets,0.4,1.8,2.2,3,18,Tower Hamlets,E09000030
+Torbay,0.2,0,0.2,1,0,Torbay,E06000027
+Thurrock,0.3,1.5,1.8,1,10,Thurrock,E06000034
+The Royal Borough of Windsor and Maidenhead,0.9,1.8,2.7,3,5,The Royal Borough of Windsor and Maidenhead,E06000040
+Telford and Wrekin,0.3,0,0.3,1,0,Telford and Wrekin,E06000020
+Tameside,0,1.2,1.2,0,10,Tameside,E08000008
+Swindon,0,0.3,0.3,0,2,Swindon,E06000030
+Sutton,0,0.8,0.8,0,6,Sutton,E09000029
+Surrey,0.3,0.7,1,9,27,Surrey,E10000030
+Sunderland,0.7,0,0.7,8,0,Sunderland,E08000024
+Suffolk,0.1,1.7,1.8,5,29,Suffolk,E10000029
+Stoke-on-Trent,0.5,0.9,1.4,4,6,Stoke-on-Trent,E06000021
+Stockton-on-Tees,0,0.3,0.3,0,2,Stockton-on-Tees,E06000004
+Stockport,0.1,0.4,0.5,1,4,Stockport,E08000007
+Staffordshire,0.3,0.6,0.9,9,16,Staffordshire,E10000028
+St. Helens,0.2,1.6,1.8,1,10,St. Helens,E08000013
+Southwark,0.4,1.3,1.7,3,13,Southwark,E09000028
+Southend on Sea,0,0.8,0.8,0,7,Southend on Sea,E06000033
+Southampton,0.1,0.1,0.2,2,1,Southampton,E06000045
+South Tyneside,0,0.7,0.7,0,4,South Tyneside,E08000023
+South Gloucestershire,0.3,0.7,1,3,6,South Gloucestershire,E06000025
+Somerset,0,0.5,0.5,1,8,Somerset,E10000027
+Solihull,0.4,0.3,0.7,2,2,Solihull,E08000029
+Slough,0.1,4.2,4.3,1,27,Slough,E06000039
+Shropshire,0.2,0,0.2,2,0,Shropshire,E06000051
+Sheffield,0.4,1.1,1.5,7,18,Sheffield,E08000019
+Sefton,0.1,0.1,0.2,1,1,Sefton,E08000014
+Sandwell,0.7,1.8,2.5,7,25,Sandwell,E08000028
+Salford,0.1,0.4,0.5,2,5,Salford,E08000006
+Rutland,0,0,0,0,0,Rutland,E06000017
+Rotherham,0,0.3,0.3,0,3,Rotherham,E08000018
+Rochdale,0.1,0.8,0.9,1,6,Rochdale,E08000005
+Richmond upon Thames,0,0.8,0.8,0,4,Richmond upon Thames,E09000027
+Redcar and Cleveland,0.6,0.4,1,3,2,Redcar and Cleveland,E06000003
+Redbridge,0.2,1.5,1.7,2,17,Redbridge,E09000026
+Reading,0.5,2,2.5,4,10,Reading,E06000038
+Portsmouth,0.2,0.6,0.8,1,4,Portsmouth,E06000044
+Poole,0,1,1,0,3,Poole,E06000029
+Plymouth,0,0.3,0.3,0,2,Plymouth,E06000026
+Peterborough,0,0.2,0.2,0,2,Peterborough,E06000031
+Oxfordshire,0.3,0.9,1.2,6,16,Oxfordshire,E10000025
+Oldham,0,0.4,0.4,0,3,Oldham,E08000004
+Nottinghamshire,0.1,0.9,1,3,29,Nottinghamshire,E10000024
+Nottingham,0.2,1.5,1.7,2,13,Nottingham,E06000018
+Northumberland,0,0.7,0.7,0,3,Northumberland,E06000048
+Northamptonshire,0.4,0.5,0.9,11,12,Northamptonshire,E10000021
+North Yorkshire,0.4,1,1.4,8,13,North Yorkshire,E10000023
+North Tyneside,0,0.3,0.3,0,2,North Tyneside,E08000022
+North Somerset,0,0.7,0.7,0,4,North Somerset,E06000024
+North Lincolnshire,0.7,0.4,1.1,4,4,North Lincolnshire,E06000013
+North East Lincolnshire,0,0.2,0.2,0,1,North East Lincolnshire,E06000012
+Norfolk,0.5,0.4,0.9,13,7,Norfolk,E10000020
+Newham,0.4,1.1,1.5,7,21,Newham,E09000025
+Newcastle upon Tyne,0.2,0.3,0.5,2,2,Newcastle upon Tyne,E08000021
+Milton Keynes,0,1.1,1.1,0,9,Milton Keynes,E06000042
+Middlesbrough,1.1,0.7,1.8,5,3,Middlesbrough,E06000002
+Merton,0.2,1.2,1.4,2,9,Merton,E09000024
+Medway,0.3,0.9,1.2,4,9,Medway,E06000035
+Manchester,0.3,0.5,0.8,6,11,Manchester,E08000003
+Luton,0.5,1.8,2.3,3,17,Luton,E06000032
+Liverpool,0.1,0.2,0.3,2,3,Liverpool,E08000012
+Lincolnshire,0.3,0.3,0.6,7,10,Lincolnshire,E10000019
+Lewisham,0.3,0.9,1.2,3,7,Lewisham,E09000023
+Leicestershire,0,0.5,0.5,0,16,Leicestershire,E10000018
+Leicester,0.2,0.5,0.7,2,9,Leicester,E06000016
+Leeds,0.4,0.5,0.9,13,14,Leeds,E08000035
+Lancashire,0.2,1.2,1.4,6,49,Lancashire,E10000017
+Lambeth,0.2,1.9,2.1,1,16,Lambeth,E09000022
+Knowsley,0.1,0.3,0.4,1,1,Knowsley,E08000011
+Kirklees,0.2,1.1,1.3,3,16,Kirklees,E08000034
+Kingston upon Thames,0.2,0.4,0.6,1,2,Kingston upon Thames,E09000021
+Kingston upon Hull,0.2,0.1,0.3,2,2,Kingston upon Hull,E06000010
+Kent,0.2,0.7,0.9,10,30,Kent,E10000016
+Kensington and Chelsea,0,0.9,0.9,0,3,Kensington and Chelsea,E09000020
+Islington,0.1,2.2,2.3,1,14,Islington,E09000019
+Isle of Wight,0.8,0.5,1.3,4,2,Isle of Wight,E06000046
+Hounslow,0,1.8,1.8,0,22,Hounslow,E09000018
+Hillingdon,0.2,3,3.2,2,32,Hillingdon,E09000017
+Hertfordshire,0.1,0.9,1,6,36,Hertfordshire,E10000015
+Herefordshire,0,0,0,0,0,Herefordshire,E06000019
+Havering,0,0.6,0.6,0,8,Havering,E09000016
+Hartlepool,0,0,0,0,0,Hartlepool,E06000001
+Harrow,0.4,5.4,5.8,3,54,Harrow,E09000015
+Haringey,0.5,1.2,1.7,4,9,Haringey,E09000014
+Hampshire,0.1,0.9,1,5,34,Hampshire,E10000014
+Hammersmith and Fulham,0,0.9,0.9,0,7,Hammersmith and Fulham,E09000013
+Halton,0.1,1.2,1.3,1,4,Halton,E06000006
+Hackney,0.3,0.9,1.2,3,10,Hackney,E09000012
+Greenwich,0,1.2,1.2,0,7,Greenwich,E09000011
+Gloucestershire,0.1,0.5,0.6,2,6,Gloucestershire,E10000013
+Gateshead,0,0.7,0.7,0,6,Gateshead,E08000020
+Essex,0.3,0.7,1,12,27,Essex,E10000012
+Enfield,0.1,0.9,1,1,13,Enfield,E09000010
+East Sussex,0.4,1.3,1.7,5,20,East Sussex,E10000011
+East Riding of Yorkshire,0,1.1,1.1,0,10,East Riding of Yorkshire,E06000011
+Ealing,0.2,3.4,3.6,2,45,Ealing,E09000009
+Durham,0.2,0.8,1,3,18,Durham,E06000047
+Dudley,0.6,2.7,3.3,2,19,Dudley,E08000027
+Dorset,0.1,0.8,0.9,1,6,Dorset,E10000009
+Doncaster,0.4,1.1,1.5,4,11,Doncaster,E08000017
+Devon,0,0.9,0.9,0,19,Devon,E10000008
+Derbyshire,0.2,0.3,0.5,4,9,Derbyshire,E10000007
+Derby,0,0.3,0.3,0,2,Derby,E06000015
+Darlington,0,0.7,0.7,0,2,Darlington,E06000005
+Cumbria,0,0.2,0.2,0,4,Cumbria,E10000006
+Croydon,0.6,1.9,2.5,2,26,Croydon,E09000008
+Coventry,0.9,0.9,1.8,16,11,Coventry,E08000026
+Cornwall,0.1,0.4,0.5,3,6,Cornwall,E06000052
+City of London,0,0,0,0,0,City of London,E09000001
+Camden,0,3,3,0,14,Camden,E09000007
+Cambridgeshire,0.2,1.4,1.6,3,23,Cambridgeshire,E10000003
+Calderdale,0.6,0.5,1.1,3,4,Calderdale,E08000033
+Bury,0.5,0,0.5,3,0,Bury,E08000002
+Buckinghamshire,0.3,1.3,1.6,6,20,Buckinghamshire,E10000002
+Bromley,0.1,1.4,1.5,1,10,Bromley,E09000006
+Bristol,0.1,0.3,0.4,2,4,Bristol,E06000023
+Brighton and Hove,0.4,0.8,1.2,3,5,Brighton and Hove,E06000043
+Brent,0,1.2,1.2,0,18,Brent,E09000005
+Bradford,0.2,1.2,1.4,6,26,Bradford,E08000032
+Bracknell Forest,1,0.8,1.8,4,5,Bracknell Forest,E06000036
+Bournemouth,0.2,0.4,0.6,1,2,Bournemouth,E06000028
+Bolton,0,0.5,0.5,0,7,Bolton,E08000001
+Blackpool,0.8,0.9,1.7,3,6,Blackpool,E06000009
+Blackburn with Darwen,0,1.1,1.1,0,6,Blackburn with Darwen,E06000008
+Birmingham,0.3,0.8,1.1,13,34,Birmingham,E08000025
+Bexley,0.5,1.2,1.7,4,13,Bexley,E09000004
+Bath and North East Somerset,0.2,0.6,0.8,1,3,Bath and North East Somerset,E06000022
+Barnsley,0.1,0.4,0.5,1,6,Barnsley,E08000016
+Barnet,0.4,1.1,1.5,4,11,Barnet,E09000003
+Barking and Dagenham,0.1,3.3,3.4,1,39,Barking and Dagenham,E09000002
