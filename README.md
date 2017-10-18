@@ -6,6 +6,7 @@ In September 2017 the BBC England Shared Data Unit [published a story showing th
 
 * Blackpool Gazette: [Blackpool’s schools facing shortage of teachers](http://www.blackpoolgazette.co.uk/news/blackpool-s-schools-facing-shortage-of-teachers-1-8739419)
 * Bournemouth Daily Echo: [Bournemouth has "four times more full time vacancies" for secondary school teachers than national average](http://www.bournemouthecho.co.uk/news/districts/bournemouth/15517370.Bournemouth_and_Dorset___39_struggling_to_recruit_teachers__39____with_many_posts_filled_by_temporary_staff/?ref=rss)
+* Bristol 24/7: [‘FUNDING CUTS ARE THE BIGGEST ISSUE FACING BRISTOL SCHOOLS’](https://www.bristol247.com/news-and-features/news/funding-cuts-biggest-issue-facing-bristol-schools/)
 * Carlisle News & Star: [Cumbria bucks the trend for teacher recruitment, new data reveals](http://www.newsandstar.co.uk/news/Cumbria-bucks-the-trend-for-teacher-recruitment-new-data-reveals-bdd2ead1-989b-47d2-b011-7b9ebae91ef8-ds)
 * Chester-le-Street Advertiser: [North councils grapple with teacher staffing 'crisis'](http://www.chesterlestreetadvertiser.co.uk/educationzone/news/15516716.Councils_grapple_with_teacher_staffing___39_crisis__39_/)
 * Derby Telegraph: [Half of new teachers likely to quit in five years, according to Derby union](http://www.derbytelegraph.co.uk/news/derby-news/half-new-teachers-likely-quit-429258)
@@ -14,6 +15,7 @@ In September 2017 the BBC England Shared Data Unit [published a story showing th
 * Huddersfield Daily Examiner: [A teacher shortage is hitting Kirklees's secondary schools - here's how](http://www.examiner.co.uk/news/teacher-shortage-hitting-kirkleess-secondary-13574580)
 * Lancashire Post: [Brain drain puts schools at risk](http://www.lep.co.uk/news/education/brain-drain-puts-schools-at-risk-1-8738949)
 * Lancashire Telegraph: [Number of teacher vacancies drops across Blackburn with Darwen](http://www.lancashiretelegraph.co.uk/news/darwen/15518386.Number_of_teacher_vacancies_drops_across_Blackburn_with_Darwen/)
+* The Northern Echo: [North councils grapple with teacher staffing 'crisis'](http://www.thenorthernecho.co.uk/news/15516716.Councils_grapple_with_teacher_staffing___39_crisis__39_/)
 * Sheffield Star: [Teacher vacancies on the increase](http://www.thestar.co.uk/news/teacher-vacancies-on-the-increase-1-8738969)
 * Southern Daily Echo: [Figures show Southampton was in the top 20 worst performing areas for teacher vacancy rates in secondary schools in November 2016](http://www.dailyecho.co.uk/news/15516746.Teacher_vacancy_rates_in_city__39_s_secondary_schools_among_highest_in_the_country___new_figures_reveal/)
 * South Shields Gazette: [Just 0.2% of teaching posts in South Tyneside unfilled](http://www.shieldsgazette.com/news/education/just-0-2-of-teaching-posts-in-south-tyneside-unfilled-1-8738466)
